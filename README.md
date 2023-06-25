@@ -1,6 +1,7 @@
 ## Hi, Tiago Ary Castelo here! I am a Brazillian Developer
 - :books: 8th semester of the Computer Science course at the University of Fortaleza
 - :computer: Back End developer
+- :us: Good English fluency
 
 <p align="left">
   <a href="https://github.com/username">

@@ -3,12 +3,7 @@
 - :computer: Full Stack developer
 - :us: Good English fluency
 
-<p align="left">
-  <a href="https://github.com/username">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoAry15&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoAry15&layout=compact&theme=tokyonight" />
-  </a>
-</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tiago-ary)
 [![E-mail](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:seuemail@gmail.com)
@@ -23,7 +18,6 @@
   <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
  
 

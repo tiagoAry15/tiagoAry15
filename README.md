@@ -1,5 +1,5 @@
 ## Hi, Tiago Ary Castelo here! I am a Brazillian Developer
-- :books: 8th semester of the Computer Science course at the University of Fortaleza
+- :books: Graduated in Computer Science from the University of Fortaleza
 - :computer: Full Stack developer
 - :us: Good English fluency
 

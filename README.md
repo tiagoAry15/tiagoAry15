@@ -1,17 +1,22 @@
 ## Hi, Tiago here! Just a Software Developer dreaming big
 - 🎓 Graduated in Computer Science from the University of Fortaleza
 - 💻 Back End Developer focused on creating scalable solutions
-- 🇺🇸 Fluent in English,
+- 🇺🇸 Fluent in English
 
 ---
 
 ### About Me:
-I specialize in creating back-end solutions with a focus on scalability and efficiency. Always looking for open-source projects and continuously learning new technologies and putting it to work.
-- Restful APIs with Spring Boot
-- Microsservices Architechture
-- CI/CD Pipelines with Docker, GitHub Actions and Jenkins
-- Unit tests and Integration tests with JUNIT
-  
+I specialize in creating back-end solutions focused on scalability, efficiency, and delivering real impact. With experience in designing and implementing robust systems, I enjoy learning cutting-edge technologies to stay ahead in the field.
+
+- ⚙️ Development of **RESTful APIs** with **Spring Boot**  
+- 🖥️ Expertise in **Microservices Architecture** for modular and scalable systems  
+- 🚀 Implementation of CI/CD Pipelines using **Docker**, **GitHub Actions**, and **Jenkins**  
+- 🧪 Thorough testing with **JUnit** to ensure software quality  
+- 🤝 Skilled in team collaboration and communication with technical and non-technical stakeholders  
+
+🎯 Outside of work, I practice **Karate**, play some 🎶 **Music**, and unwind with 🎮 **Video Games**.
+
+
 ---
 
 ### GitHub Stats:
@@ -22,45 +27,38 @@ I specialize in creating back-end solutions with a focus on scalability and effi
 
 ---
 
-### Skills:
+### 🛠 &nbsp;Tech Stack:
+- 🌐 **Front-End** &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-#### Front End:
-<div style="display: inline_block, margin-bottom: 2px"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+- 🖥️ **Back-End** &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring)
+  
+- 🛢**Databases** &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+  
+- 🛠️ **DevOps** &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
 
-#### Back End:
-  <div style="display: inline_block, margin-bottom: 2px"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-#### Databases:
-<div style="display: inline_block, margin-bottom: 2px"><br>
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-</div>
-
-#### DevOps:
-<div style="display: inline_block, margin-bottom: 2px"><br>
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-</div>
-
+- ⚙️ **Version Control** &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ---
 
-
-### Contact:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tiago-ary)
 [![E-mail](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:tiago.ary10@gmail.com)
 
-![Snake animation](https://github.com/tiagoAry15/tiagoAry15/blob/output/github-contribution-grid-snake.svg)
 

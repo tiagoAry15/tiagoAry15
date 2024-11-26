@@ -61,5 +61,6 @@ I specialize in creating back-end solutions with a focus on scalability and effi
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tiago-ary)
 [![E-mail](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:tiago.ary10@gmail.com)
+
 ![Snake animation](https://github.com/tiagoAry15/tiagoAry15/blob/output/github-contribution-grid-snake.svg)
 

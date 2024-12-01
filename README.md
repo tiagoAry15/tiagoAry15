@@ -1,7 +1,7 @@
 ## Hi, Tiago here! Just a Software Developer dreaming big
 - 🎓 Graduated in Computer Science from the University of Fortaleza
 - 💻 Back End Developer focused on creating scalable solutions
-- 🇺🇸 Fluent in English
+- 🇺🇸 Good english fluency
 
 ---
 
